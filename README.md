@@ -5,10 +5,11 @@
 </p>
 
 ### B.Hasan Hira
-Devops Engineer | AWS Solution Architect | General Dentist
+AWS Cloud & Devops Engineer | AWS Solution Architect | Electric and Electronic Engineer
 
-- 🔭 I’m currently AWS Solution Architect Traniee at Clarusway IT School
-- 🌱 I’m currently learning cloud computing and devops tools
+- 🔭 I have just finished AWS Cloud % Devops IT Couurse at Clarusway IT School.
+- 🌱 I'm currently volunteering as a mentor for students after me at Clarusway IT School.
+- 🌱 I’m also preparing for AWS certificates.
 - 💬 I am passionate to learn and cooperate, and I am eager to share my knowledge
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/hasan-hira/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/hasan-hira) 
 
