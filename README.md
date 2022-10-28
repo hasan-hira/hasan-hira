@@ -40,7 +40,7 @@ Devops Engineer | AWS Solution Architect | General Dentist
 
 <hr>
 
-![snake gif](https://github.com/MelekAlan/MelekAlan/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/hasan-hira/hasanhira/blob/output/github-contribution-grid-snake.gif)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=hasan-hira&show_icons=true&theme=radical)
 
