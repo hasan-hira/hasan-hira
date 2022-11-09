@@ -50,6 +50,8 @@ AWS Cloud & Devops Engineer | AWS Solution Architect | Electric and Electronic E
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=hasan-hira&show_icons=true&theme=radical)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasan-hira&show_icons=true&theme=cobalt" alt="Hasan" /></p>
+
 ![snake gif](hasanhira-output/github-contribution-grid-snake.gif)
 
 ---------------
