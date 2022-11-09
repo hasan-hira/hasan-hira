@@ -4,7 +4,13 @@
   <img src="https://github.com/hasan-hira/hasanhira/blob/main/Aws-DevOps-Online-Training-1024x615.jpg">
 </p>
 
-### B.Hasan Hira
+<h1 align="center">Hey there, I'm Murat <br> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<br>
+<img alt="Coding" width="900" height="300" src="https://www.comunicazionemulticreativa.it/images/slide/slide1.jpg" >
+
+---------------
+
+### Hasan Hira
 AWS Cloud & Devops Engineer | AWS Solution Architect | Electric and Electronic Engineer
 
 - 🔭 I have just finished AWS Cloud & Devops IT Couurse at Clarusway IT School.
@@ -12,6 +18,8 @@ AWS Cloud & Devops Engineer | AWS Solution Architect | Electric and Electronic E
 - 🌱 I’m also preparing for AWS certificates.
 - 💬 I am passionate to learn and cooperate, and I am eager to share my knowledge
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/hasan-hira/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/hasan-hira) 
+
+---------------
 
  <hr>
  
@@ -40,6 +48,13 @@ AWS Cloud & Devops Engineer | AWS Solution Architect | Electric and Electronic E
 </p>
 
 <hr>
+
+---------------
+
+<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratYarali&langs_count=10&theme=cobalt&layout=compact" alt="Murat" /></p>
+<br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuratYarali&show_icons=true&theme=cobalt" alt="Murat" /></p>
+
 
 ![snake gif](hasanhira-output/github-contribution-grid-snake.gif)
 
